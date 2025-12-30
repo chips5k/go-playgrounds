@@ -1,0 +1,17 @@
+# OS / editors
+.DS_Store
+Thumbs.db
+*~
+
+# Compiled binaries and test artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+/bin/
+
+# Go workspace
+go.work
